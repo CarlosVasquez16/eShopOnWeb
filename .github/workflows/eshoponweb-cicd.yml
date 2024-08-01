@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 6596cdca-2a52-4e8b-af0d-510fbb56fda9
-  WEBAPP-NAME: eshoponweb-webapp-NAME
+  WEBAPP-NAME: devops-webapp-westeurope-2208230722
 
 
 jobs:
